@@ -16,7 +16,8 @@ i41CX+ includes a built-in custom module (I41CX) with 59 functions to
 
 ## References
 
-https://www.keesvandersanden.nl/calculators/coconut.php
+https://www.keesvandersanden.nl/calculators/coconut.php  
+[List of links related to HP Calculators](https://www.keesvandersanden.nl/calculators/links.php)
 
 ## Projects
 
