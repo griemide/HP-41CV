@@ -14,6 +14,9 @@ i41CX+ includes a built-in custom module (I41CX) with 59 functions to
 2. provide programmatic access to i41CX+ GUI functionality such as showing the printer view, setting the calculator speed, etc.
 3. control graphics mode which provides full control over the calculator displays.
 
+### HP-41C/CV/CX Programming
+![flying-goose-simulation](HP-41CV_goose.gif) 
+
 ## References
 
 https://www.keesvandersanden.nl/calculators/coconut.php  
@@ -24,6 +27,9 @@ http://www.epocalc.net/pages/mes_calcs_02.htm
 ## Projects
 
 Private [projects](https://github.com/griemide/i41CX/)  
+[]() 
+[]() 
+[]() 
 []() 
 []() 
 []() 
