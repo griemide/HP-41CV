@@ -15,7 +15,8 @@ i41CX+ includes a built-in custom module (I41CX) with 59 functions to
 3. control graphics mode which provides full control over the calculator displays.
 
 ### HP-41C/CV/CX Programming
-![flying-goose-simulation](HP-41CV_goose.gif) 
+[![flying-goose-simulation](references/HP-41CV_goose.gif)](https://www.hpmuseum.org/prog/hp41prog.htm#advanced) 
+[The Museum of HP Calculators](https://www.hpmuseum.org/prog/hp41prog.htm#advanced)
 
 ## References
 
