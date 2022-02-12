@@ -27,6 +27,8 @@ https://www.keesvandersanden.nl/calculators/coconut.php
 
 http://www.epocalc.net/pages/mes_calcs_02.htm  
 
+https://archived.hpcalc.org/greendyk/hp41c-manual/index.html
+
 https://archived.hpcalc.org/greendyk/hp41c-printer/index.html
 
 ## Projects
