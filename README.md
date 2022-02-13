@@ -17,11 +17,12 @@ i41CX+ includes a built-in custom module (I41CX) with 59 functions to
 ### HP-41C/CV/CX Programming
 [![flying-goose-simulation](references/HP-41CV_goose.gif)](https://www.hpmuseum.org/prog/hp41prog.htm#advanced) 
 
-<a href="https://www.hpmuseum.org/prog/hp41prog.htm#advanced">
-<img width="200" alt="2022-02-12" src="references/HP-41CV_front-cover.gif"> 
 
 <a href="https://www.hpmuseum.org/prog/hp41prog.htm#advanced">
-<img width="500" alt="2022-02-12" src="references/HP-41CV_Calculator.jpg"> 
+<img width="200" alt="2022-02-12" src="references/HP-41CV_Calculator.jpg"> 
+  
+<a href="https://www.hpmuseum.org/prog/hp41prog.htm#advanced">
+<img width="170" alt="2022-02-12" src="references/i41CV.png"> 
 
 [The Museum of HP Calculators](https://www.hpmuseum.org/prog/hp41prog.htm#advanced) (MoHPC)
 
@@ -50,3 +51,7 @@ Private [projects](https://github.com/griemide/i41CX/)
 []() 
 []() 
 []() 
+
+  
+  <a href="https://www.hpmuseum.org/prog/hp41prog.htm#advanced">
+<img width="200" alt="2022-02-12" src="references/HP-41CV_front-cover.gif"> 
