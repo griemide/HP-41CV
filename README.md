@@ -31,6 +31,8 @@ https://archived.hpcalc.org/greendyk/hp41c-manual/index.html
 
 https://archived.hpcalc.org/greendyk/hp41c-printer/index.html
 
+https://www.youtube.com/watch?v=Xsohclu9cXI
+
 ## Projects
 
 Private [projects](https://github.com/griemide/i41CX/)  
