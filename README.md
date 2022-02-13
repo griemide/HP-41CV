@@ -18,7 +18,7 @@ i41CX+ includes a built-in custom module (I41CX) with 59 functions to
 [![flying-goose-simulation](references/HP-41CV_goose.gif)](https://www.hpmuseum.org/prog/hp41prog.htm#advanced) 
 [The Museum of HP Calculators](https://www.hpmuseum.org/prog/hp41prog.htm#advanced) (MoHPC)
 
-[Syntetic programming](https://www.hpmuseum.org/prog/synth41.htm) (MoHPC)
+[Synthetic programming](https://www.hpmuseum.org/prog/synth41.htm) (MoHPC)
 
 ## References
 
