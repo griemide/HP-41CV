@@ -19,7 +19,7 @@ i41CX+ includes a built-in custom module (I41CX) with 59 functions to
 
 
 <a href="https://www.hpmuseum.org/prog/hp41prog.htm#advanced">
-<img width="200" alt="2022-02-12" src="references/HP-41CV_Calculator.jpg"> 
+<img width="200" alt="2022-02-12" src="references/HP-41CV_Calculator.png"> 
   
 <a href="https://www.hpmuseum.org/prog/hp41prog.htm#advanced">
 <img width="170" alt="2022-02-12" src="references/i41CV.png"> 
