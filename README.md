@@ -39,10 +39,11 @@ https://www.keesvandersanden.nl/calculators/coconut.php
 [List of links related to HP Calculators](https://www.keesvandersanden.nl/calculators/links.php)
 
 http://www.epocalc.net/pages/mes_calcs_02.htm  
-https://www.youtube.com/watch?v=Xsohclu9cXI
-https://calc.fjk.ch/links/
-https://calc.fjk.ch/db/hp41mod.php
-http://rwiker.github.io/hp41barcode/
+https://www.youtube.com/watch?v=Xsohclu9cXI  
+https://calc.fjk.ch/links/  
+https://calc.fjk.ch/db/hp41mod.php  
+http://rwiker.github.io/hp41barcode/  
+http://www.hpcc.org/calculators/hp41.html  
 
 
 ## Projects
