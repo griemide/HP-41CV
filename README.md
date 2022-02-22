@@ -39,6 +39,8 @@ https://www.keesvandersanden.nl/calculators/coconut.php
 
 http://www.epocalc.net/pages/mes_calcs_02.htm  
 https://www.youtube.com/watch?v=Xsohclu9cXI
+https://calc.fjk.ch/links/
+https://calc.fjk.ch/db/hp41mod.php
 
 
 ## Projects
