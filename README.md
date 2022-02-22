@@ -31,6 +31,7 @@ i41CX+ includes a built-in custom module (I41CX) with 59 functions to
 ## Manuals
 [HP-41C Online Manual](https://archived.hpcalc.org/greendyk/hp41c-manual/index.html)  
 [HP-41C Printer Online Manual](https://archived.hpcalc.org/greendyk/hp41c-printer/index.html)  
+[HP-41C Quick Reference Guides for Extension Modules](https://qrg41.fjk.ch/)  
 
 ## References
 
@@ -41,6 +42,7 @@ http://www.epocalc.net/pages/mes_calcs_02.htm
 https://www.youtube.com/watch?v=Xsohclu9cXI
 https://calc.fjk.ch/links/
 https://calc.fjk.ch/db/hp41mod.php
+http://rwiker.github.io/hp41barcode/
 
 
 ## Projects
