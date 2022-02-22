@@ -27,6 +27,10 @@ i41CX+ includes a built-in custom module (I41CX) with 59 functions to
 [The Museum of HP Calculators](https://www.hpmuseum.org/prog/hp41prog.htm#advanced) (MoHPC)
 
 [Synthetic programming](https://www.hpmuseum.org/prog/synth41.htm) (MoHPC)
+  
+## Manuals
+[HP-41C Online Manual](https://archived.hpcalc.org/greendyk/hp41c-manual/index.html)  
+[HP-41C Printer Online Manual](https://archived.hpcalc.org/greendyk/hp41c-printer/index.html)  
 
 ## References
 
@@ -34,11 +38,6 @@ https://www.keesvandersanden.nl/calculators/coconut.php
 [List of links related to HP Calculators](https://www.keesvandersanden.nl/calculators/links.php)
 
 http://www.epocalc.net/pages/mes_calcs_02.htm  
-
-https://archived.hpcalc.org/greendyk/hp41c-manual/index.html
-
-https://archived.hpcalc.org/greendyk/hp41c-printer/index.html
-
 https://www.youtube.com/watch?v=Xsohclu9cXI
 
 
