@@ -1,5 +1,9 @@
 # HP-41CV (Silverbird)
-Scientific Calculator (1980 - 1985)
+Scientific Calculator (1980 - 1985) 
+
+<a href="https://www.hpmuseum.org/prog/hp41prog.htm#advanced">
+<img width="200" alt="2022-02-12" src="references/HP-41CV_Calculator.png"> 
+ 
 
 ## iPhone App 
 Apple Appstore [i41CX](https://apps.apple.com/de/app/i41cx/id292619450)  or   
@@ -17,10 +21,6 @@ i41CX+ includes a built-in custom module (I41CX) with 59 functions to
 ### HP-41C/CV/CX Programming
 [![flying-goose-simulation](references/HP-41CV_goose.gif)](https://www.hpmuseum.org/prog/hp41prog.htm#advanced) 
 
-
-<a href="https://www.hpmuseum.org/prog/hp41prog.htm#advanced">
-<img width="200" alt="2022-02-12" src="references/HP-41CV_Calculator.png"> 
-  
 <a href="https://www.hpmuseum.org/prog/hp41prog.htm#advanced">
 <img width="170" alt="2022-02-12" src="references/i41CV.png"> 
 
